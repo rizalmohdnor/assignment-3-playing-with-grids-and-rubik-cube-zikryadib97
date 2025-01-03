@@ -2,9 +2,9 @@
 # Assignment 2: Play with a 2x2 Rubik Cube
 by 
 
-**NAME**:
+**NAME**: **MUHAMAD ZIKRY ADIB BIN MOHD SUHAIMI**
 
-**Matric ID**
+**Matric ID**: **2112197**
 
 ## Objective
 
